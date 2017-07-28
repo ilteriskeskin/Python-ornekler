@@ -12,7 +12,7 @@
       else:
           print('Sisteme kaydiniz alinmistir. Lütfen Giris yapiniz.')
 
-      kullaniciAdi1 = input('Kullanici Adi: ')<br>
+      kullaniciAdi1 = input('Kullanici Adi: ')
       parola1       = input('Parola       : ')
       
       if kullaniciAdi1 == kullaniciAdi and parola1 == parola: #and parametresi ile kullanici adi ve
