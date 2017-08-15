@@ -1,2 +1,1 @@
-# python-ogrenci-otomasyon
-Basit Öğrenci Otomasyonu
+#Basit Öğrenci Otomasyonu
