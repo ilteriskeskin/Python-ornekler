@@ -1,7 +1,3 @@
-"""
-
-"""
-
 import os
 
 while(1):
