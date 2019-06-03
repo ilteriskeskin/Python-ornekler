@@ -6,7 +6,7 @@ def window():
     app = QtWidgets.QApplication(sys.argv)
     pencere = QtWidgets.QWidget()
 
-    pencere.setWindowTitle('PyQt Ders 1')
+    pencere.setWindowTitle('PyQt Ders 2')
     button = QtWidgets.QPushButton(pencere)
     button.setText('Bir Buton')
     etiket = QtWidgets.QLabel(pencere)
