@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a4df7f-7592-4c3f-b6e7-9e74bdb5ba5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checkbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RadioButton.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/checkbox.py">
+        <entry file="file://$PROJECT_DIR$/RadioButton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="289">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/QLineEdit_ve_input.py" />
         <option value="$PROJECT_DIR$/kullanici_giris_projesi/kullanici_girisi.py" />
         <option value="$PROJECT_DIR$/checkbox.py" />
+        <option value="$PROJECT_DIR$/RadioButton.py" />
       </list>
     </option>
   </component>
@@ -95,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.checkbox">
+  <component name="RunManager" selected="Python.RadioButton">
     <configuration name="QLineEdit_ve_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQT5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +111,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QLineEdit_ve_input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RadioButton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQT5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RadioButton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,28 +185,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="horizontal_vertical_box_layout" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQT5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/horizontal_vertical_box_layout.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="kullanici_girisi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQT5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RadioButton" />
         <item itemvalue="Python.checkbox" />
         <item itemvalue="Python.kullanici_girisi" />
         <item itemvalue="Python.QLineEdit_ve_input" />
         <item itemvalue="Python.fonksiyonel_butonlar" />
-        <item itemvalue="Python.horizontal_vertical_box_layout" />
       </list>
     </recent_temporary>
   </component>
@@ -227,12 +228,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559567659967</updated>
       <workItem from="1559567661131" duration="3594000" />
-      <workItem from="1560241377906" duration="2109000" />
+      <workItem from="1560241377906" duration="2915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5703000" />
+    <option name="totallyTimeSpent" value="6509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="27" width="928" height="1053" extended-state="4" />
@@ -267,6 +268,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyQT5$QLineEdit_ve_input.coverage" NAME="QLineEdit_ve_input Coverage Results" MODIFIED="1560241788861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$horizontal_vertical_box_layout.coverage" NAME="horizontal_vertical_box_layout Coverage Results" MODIFIED="1559569027760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$RadioButton.coverage" NAME="RadioButton Coverage Results" MODIFIED="1560244684605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$buton_olusturma.coverage" NAME="buton_olusturma Coverage Results" MODIFIED="1559567910854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$checkbox.coverage" NAME="checkbox Coverage Results" MODIFIED="1560243918342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$fonksiyonel_butonlar.coverage" NAME="fonksiyonel_butonlar Coverage Results" MODIFIED="1560241635214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -335,8 +337,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/checkbox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RadioButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
