@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a4df7f-7592-4c3f-b6e7-9e74bdb5ba5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kullanici_giris_projesi/kullanici_girisi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkbox.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kullanici_giris_projesi/kullanici_girisi.py">
+        <entry file="file://$PROJECT_DIR$/checkbox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
+            <state relative-caret-position="357">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -45,6 +44,7 @@
         <option value="$PROJECT_DIR$/fonksiyonel_butonlar.py" />
         <option value="$PROJECT_DIR$/QLineEdit_ve_input.py" />
         <option value="$PROJECT_DIR$/kullanici_giris_projesi/kullanici_girisi.py" />
+        <option value="$PROJECT_DIR$/checkbox.py" />
       </list>
     </option>
   </component>
@@ -67,11 +67,6 @@
             <path>
               <item name="PyQT5" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQT5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyQT5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQT5" type="462c0819:PsiDirectoryNode" />
-              <item name="kullanici_giris_projesi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kullanici_girisi">
+  <component name="RunManager" selected="Python.checkbox">
     <configuration name="QLineEdit_ve_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQT5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buton_olusturma" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="checkbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQT5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buton_olusturma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkbox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.checkbox" />
         <item itemvalue="Python.kullanici_girisi" />
         <item itemvalue="Python.QLineEdit_ve_input" />
         <item itemvalue="Python.fonksiyonel_butonlar" />
         <item itemvalue="Python.horizontal_vertical_box_layout" />
-        <item itemvalue="Python.buton_olusturma" />
       </list>
     </recent_temporary>
   </component>
@@ -232,12 +227,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559567659967</updated>
       <workItem from="1559567661131" duration="3594000" />
-      <workItem from="1560241377906" duration="1651000" />
+      <workItem from="1560241377906" duration="2109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5245000" />
+    <option name="totallyTimeSpent" value="5703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="27" width="928" height="1053" extended-state="4" />
@@ -273,6 +268,7 @@
     <SUITE FILE_PATH="coverage/PyQT5$QLineEdit_ve_input.coverage" NAME="QLineEdit_ve_input Coverage Results" MODIFIED="1560241788861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$horizontal_vertical_box_layout.coverage" NAME="horizontal_vertical_box_layout Coverage Results" MODIFIED="1559569027760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$buton_olusturma.coverage" NAME="buton_olusturma Coverage Results" MODIFIED="1559567910854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQT5$checkbox.coverage" NAME="checkbox Coverage Results" MODIFIED="1560243918342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$fonksiyonel_butonlar.coverage" NAME="fonksiyonel_butonlar Coverage Results" MODIFIED="1560241635214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$kullanici_girisi.coverage" NAME="kullanici_girisi Coverage Results" MODIFIED="1560243054118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kullanici_giris_projesi" />
   </component>
@@ -330,7 +326,17 @@
     <entry file="file://$PROJECT_DIR$/kullanici_giris_projesi/kullanici_girisi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
-          <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
+          <caret line="49" column="81" selection-start-line="49" selection-start-column="81" selection-end-line="49" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
