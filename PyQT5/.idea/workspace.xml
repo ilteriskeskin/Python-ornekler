@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a4df7f-7592-4c3f-b6e7-9e74bdb5ba5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notepad_projesi/notepad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu_ve_alt_menu_olusturma.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notepad_projesi/notepad.py">
+        <entry file="file://$PROJECT_DIR$/menu_ve_alt_menu_olusturma.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+            <state relative-caret-position="512">
+              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -49,10 +49,11 @@
         <option value="$PROJECT_DIR$/RadioButton.py" />
         <option value="$PROJECT_DIR$/QTextEdit.py" />
         <option value="$PROJECT_DIR$/notepad_projesi/notepad.py" />
+        <option value="$PROJECT_DIR$/menu_ve_alt_menu_olusturma.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="992" />
     <option name="y" value="27" />
     <option name="width" value="928" />
@@ -71,11 +72,6 @@
             <path>
               <item name="PyQT5" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQT5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyQT5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyQT5" type="462c0819:PsiDirectoryNode" />
-              <item name="notepad_projesi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.notepad">
+  <component name="RunManager" selected="Python.menu_ve_alt_menu_olusturma">
     <configuration name="QTextEdit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQT5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kullanici_girisi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="menu_ve_alt_menu_olusturma" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQT5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kullanici_giris_projesi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kullanici_giris_projesi/kullanici_girisi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menu_ve_alt_menu_olusturma.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.menu_ve_alt_menu_olusturma" />
         <item itemvalue="Python.notepad" />
         <item itemvalue="Python.QTextEdit" />
         <item itemvalue="Python.RadioButton" />
         <item itemvalue="Python.checkbox" />
-        <item itemvalue="Python.kullanici_girisi" />
       </list>
     </recent_temporary>
   </component>
@@ -237,12 +233,14 @@
       <updated>1559567659967</updated>
       <workItem from="1559567661131" duration="3594000" />
       <workItem from="1560241377906" duration="4216000" />
-      <workItem from="1560364872206" duration="238000" />
+      <workItem from="1560364872206" duration="419000" />
+      <workItem from="1560454668233" duration="71000" />
+      <workItem from="1560618022596" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8048000" />
+    <option name="totallyTimeSpent" value="9168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="27" width="928" height="1053" extended-state="4" />
@@ -262,7 +260,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32752994" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -278,6 +276,7 @@
     <SUITE FILE_PATH="coverage/PyQT5$QLineEdit_ve_input.coverage" NAME="QLineEdit_ve_input Coverage Results" MODIFIED="1560241788861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$horizontal_vertical_box_layout.coverage" NAME="horizontal_vertical_box_layout Coverage Results" MODIFIED="1559569027760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$notepad.coverage" NAME="notepad Coverage Results" MODIFIED="1560365167419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notepad_projesi" />
+    <SUITE FILE_PATH="coverage/PyQT5$menu_ve_alt_menu_olusturma.coverage" NAME="menu_ve_alt_menu_olusturma Coverage Results" MODIFIED="1560618997911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$RadioButton.coverage" NAME="RadioButton Coverage Results" MODIFIED="1560244684605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$buton_olusturma.coverage" NAME="buton_olusturma Coverage Results" MODIFIED="1559567910854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyQT5$checkbox.coverage" NAME="checkbox Coverage Results" MODIFIED="1560243918342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -378,8 +377,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notepad_projesi/notepad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_ve_alt_menu_olusturma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
