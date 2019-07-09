@@ -56,8 +56,8 @@ while(1):
 
             else:
                 print('Hatalı seçim!')
-        elif secim == 4:
-            exit(1)
+    elif secim == 4:
+        exit(1)
 
-        else:
-            print('Hatalı seçim !')
+    else:
+        print('Hatalı seçim !')
