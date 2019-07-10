@@ -21,9 +21,9 @@ def pprint_ntuple(nt):
 
 
 def main():
-    print('BELLEK\n------')
+    print('MEMORY\n------')
     pprint_ntuple(psutil.virtual_memory())
-    print('\nTAKAS\n----')
+    print('\nSWAP\n----')
     pprint_ntuple(psutil.swap_memory())
 
 

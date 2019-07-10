@@ -3,10 +3,10 @@ import processor_info, battery, mem, disk
 
 while(1):
 
-    print('1-İsletim Sistemi Görüntülüme: ')
-    print('2-Ayrıntılı İşletim Sistemi Görüntüleme (Yalnızca GNU/Linux Sistemler):')
-    print('3-Sistem Bilgilerini Görüntüleme: ')
-    print('4-Çıkış: ')
+    print('1-view operating system: ')
+    print('2-view detailed operating system (GNU/Linux only):')
+    print('3-view system information: ')
+    print('4-exit: ')
     secim = int(input('==> '))
 
     if secim == 1:
@@ -23,13 +23,13 @@ while(1):
 
         else:
             print('--------------------------')
-            print('Sisteminiz GNU/Linux değil !')
+            print('Your sistem not  GNU/Linux!')
             print('--------------------------\n')
 
     elif secim == 3:
 
         while(1):
-            yeni = int(input('1-İşlemci Bilgileri\n2-RAM Bilgileri\n3-Disk Bilgileri\n4-Pil Bilgileri\n5-Çıkış\n==> '))
+            yeni = int(input('1-Processor information\n2-RAM information\n3-Disk information\n4-Battery information\n5-Exit\n==> '))
 
             if yeni == 1:
                 print('--------------------------')
@@ -55,9 +55,9 @@ while(1):
                 exit(1)
 
             else:
-                print('Hatalı seçim!')
+                print('Incorrect selection!')
     elif secim == 4:
         exit(1)
 
     else:
-        print('Hatalı seçim !')
+        print('Incorrect selection!')

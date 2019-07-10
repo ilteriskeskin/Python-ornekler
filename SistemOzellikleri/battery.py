@@ -17,15 +17,11 @@ def main():
     if batt is None:
         return sys.exit("no battery is installed")
 
-    print("şarj:            %s%%" % round(batt.percent, 2))
+    print("charge:            %s%%" % round(batt.percent, 2))
     if batt.power_plugged:
-        print("durum:           %s" % ("şarj oluyor" if batt.percent < 100 else "batarya tam dolu"))
-        print("fişe takılı:     evet")
+        print("status:           %s" % ("It's charging" if batt.percent < 100 else "battery full"))
+        print("plugged in:     yes")
     else:
-        print("kalan süre:      %s" % secs2hours(batt.secsleft))
-        print("durum:           %s" % "şarj olmuyor")
-        print("fişe takılı:     hayır")
-
-
-#if __name__ == '__main__':
-#    main()
+        print("remaining time:      %s" % secs2hours(batt.secsleft))
+        print("status:           %s" % "It's not charging")
+        print("plugged in:     No")
