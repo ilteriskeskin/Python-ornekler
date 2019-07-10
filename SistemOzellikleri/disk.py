@@ -35,7 +35,3 @@ def main():
             int(usage.percent),
             part.fstype,
             part.mountpoint))
-
-
-if __name__ == '__main__':
-    sys.exit(main())
